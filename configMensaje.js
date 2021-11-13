@@ -14,10 +14,10 @@ module.exports = (data) => {
 		}
 	});
 	const mailOptions = {
-		from: 'josee.ariasmelo@gmail.com',
-		to: 'jose.arias@janusautomation.com',
-		subject: "prueba"
-		// html: data.contenido
+		from: 'comandatpapi@gmail.com',
+		to: data.destinatario,
+		subject: data.asunto,
+		html: data.contenido
 	};
 	return transporter.sendMail(mailOptions).then(info =>{
 		return info;
