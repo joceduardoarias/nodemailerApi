@@ -7,10 +7,10 @@ module.exports = (data) => {
 		auth: {
 			type: 'OAuth2',
 			user: 'comandatpapi@gmail.com',
-			clientId: "650156098194-j9ghh25aqd9kuoj7eognsa79meaept0q.apps.googleusercontent.com",
-			clientSecret: "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",
-			refreshToken: "1//04tqZlN82efm1CgYIARAAGAQSNwF-L9IrT69FPqbnAF_kaOBxjs5NxkRyM3ogb6i6qREY51A-qMhVyBOIe2kFo30DXzUbnpakHAs",
-			accessToken: "ya29.a0ARrdaM-gJDCZE0AD1bz9t9fxr2AZC0gqFQvaBOVJQfKWaQbxQnQBB_Sk6-2HnH1d2cw7Fw5ALqPK80m2b37aHr7fodooYBQjML_74-e-j9wn7rfIPSH6Lqk2u6eh9z9h9zpP-VBlVhf2NbOc9zHqRrrnxbOv"
+			clientId: "217821367514-q4oa0bp00k5snl62c1d4guofu2nr2uu8.apps.googleusercontent.com",
+			clientSecret: "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",
+			refreshToken: "1//04i9vBoiSzvTfCgYIARAAGAQSNwF-L9IrERQWob9pxnci8UHNatsj8gqNCz7uTd5CNK5GlW2AYqD-L7C7wkhGscDhpFMDungwTZI",
+			accessToken: "ya29.a0ARrdaM84WmH9pV3u7dcJ-zJWRnVjXocU7F3uCy7Nh4T2YpgrDtYAr-pQVUspVoo3yQI77cN1TtgXYqPX-SY3V5UT2SbxchZogdu2cPf5y7NYSYpvYxA2o8i4w6TJyLi0j46LGVZLHy36T3CUvsMFapnXKOcL"
 		}
 	});
 	const mailOptions = {
