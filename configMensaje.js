@@ -6,7 +6,7 @@ module.exports = (data) => {
 		service: 'gmail',
 		auth: {
 			type: 'OAuth2',
-			user: 'josee.ariasmelo@gmail.com',
+			user: 'comandatpapi@gmail.com',
 			clientId: "650156098194-j9ghh25aqd9kuoj7eognsa79meaept0q.apps.googleusercontent.com",
 			clientSecret: "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",
 			refreshToken: "1//04tqZlN82efm1CgYIARAAGAQSNwF-L9IrT69FPqbnAF_kaOBxjs5NxkRyM3ogb6i6qREY51A-qMhVyBOIe2kFo30DXzUbnpakHAs",
